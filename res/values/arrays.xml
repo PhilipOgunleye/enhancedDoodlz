@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colours_array">
+        <item>Choose Background Color</item>
+        <item>Brown</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Silver</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Green</item>
+    </string-array>
+
+    <string-array name="background_image">
+        <item>Choose Background image</item>
+        <item>Background 1</item>
+        <item>Background 2</item>
+        <item>Background 3</item>
+    </string-array>
+</resources>
